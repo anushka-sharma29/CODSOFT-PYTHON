@@ -2,22 +2,22 @@ CODSOFT PYTHON PROGRAMMING INTERN TASKS
 
 : This repository contains all my tasks for the Python Programminhg internship offered by CodSoft. 
 
-task #2  CALCULATOR
+Task #2  CALCULATOR
 
-Designed a simple calculator with basic arithmetic operations.
+> Designed a simple calculator with basic arithmetic operations.
 > Prompting the user to input two numbers and an operation choice.
 > This calculator performs the calculation and displays the result.
 
 
-task #3  PASSWORD GENERATOR
+Task #3  PASSWORD GENERATOR
 
-Created this useful password generation tool. 
+> Created this useful password generation tool. 
 > This prompts the user to specify the desired length of the password.
 > Uses a combination of random characters to generate a password of the specified length.
 > Prints the generated password on the screen.
 
 
-task #4 ROCK PAPER SCISSORS GAME 
+Task #4 ROCK PAPER SCISSORS GAME 
 
 > Prompts the user to choose rock, paper, or scissors.
 > Generates a random choice (rock, paper, or scissors) for the computer.
